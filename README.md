@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me @cloudindia001@gmail.com
 - Doing training on AWS-SAA
-- ⚡ Fun fact: ...
+git and github
 
 <!---
 MazharHuda/MazharHuda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
