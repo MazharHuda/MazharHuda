@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MazharHuda
+- 👋 Hi, I’m @MazharHuda .Yes you can do it.
 - 👀 I’m interested in attaining github practically to utilize the knowledge of git and github
 - 🌱 I’m currently learning push,pull command colloboration
 - 💞️ I’m looking to collaborate on ...
